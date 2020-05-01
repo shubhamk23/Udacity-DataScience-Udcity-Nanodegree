@@ -22,7 +22,6 @@ As per Udacity Data Scientist Nanodegree project Term 2 project to write a Data 
 
 This can can be modified to analyze other data sets other than amsterdam data.
 
-for more information refer to the medium blogpost for this project: https://medium.com/@nesreensada/this-is-why-an-amsterdam-airbnb-listing-is-expansive-593029aec0df.
 
 ### summary of the project
 
@@ -60,19 +59,6 @@ The peak in prices occur in the period between May and June and the cheapest per
 
 - Amsterdam_Airbnb_Data_Analysis.ipnyb:a notebook containing the analysis for the data.
 
-### Run
-
-In a terminal or command window, navigate to the top-level project directory `Write_BlogPost/` (that contains this README) and run one of the following commands:
-
-```bash
-ipython notebook Amsterdam_Airbnb_Data_Analysis.ipynb
-```  
-or
-```bash
-jupyter Amsterdam_Airbnb_Data_Analysis.ipynb
-```
-
-This will open the iPython Notebook software and project file in your browser.
 
 ### Data
 
